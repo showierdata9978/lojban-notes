@@ -184,3 +184,6 @@ mi prami la rozgu ku
 		 ==       ==
 "I love Rose."
 ```
+
+## Introductions
+You introduce yourself with the cmavo `mi'e`

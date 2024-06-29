@@ -51,3 +51,33 @@ mi dunda fi do
 |==|=====|====|
 x1       x1
 ```
+
+## Self-Introduction (`mi'e NAME`)
+Introducing one's own self is done with the cmavo `mi'e`.
+
+### Example
+```
+mi'e Showier
+```
+
+## Greatings (`coi SUMTI`)
+Greating another person is done with the cmavo `coi`
+### Examples
+```
+coi ca ethernet
+```
+or just
+```
+coi
+```
+
+
+## fairwells (`co'o SUMTI`)
+
+
+Fairwells are said with the cmavo `co'o`
+### Examples
+```
+co'o ca ethernet
+```
+

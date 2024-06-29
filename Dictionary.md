@@ -172,3 +172,12 @@ A rose
 ## NAMES
 Names are `Sumti`. 
 
+## tadni (Sumti)
+
+### Verb Form
+
+`lo tadni ku => student`
+## Example
+```
+ coi lo tadni ku
+```

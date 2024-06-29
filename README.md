@@ -1,0 +1,1 @@
+https://mw.lojban.org/papri/la_karda#Farewells
